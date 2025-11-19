@@ -1,6 +1,6 @@
 
 //Seleccionamos el contenedor donde se mostrará el resultado que es del html "Div" con el id "fizzbuzz-container"
-const salida  = document.getElementById("fizzbuzz-container");
+const salida  = document.getElementById("fizzbuzz-contenedor");
 
 //Función llamada "ImprimirFizBuzz" para imprimir el resultado en el contenedor seleccionado el cual le tendremos que pasar el mensaje a imprimir
 function ImprimirFizBuzz(Mensaje) {
